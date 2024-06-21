@@ -3,6 +3,7 @@
 This project explores the use of logistic regression to classify loan applicants as high-risk or low-risk based on various financial factors. By analyzing historical loan data, the model learns patterns that can help assess the likelihood of a borrower defaulting on a loan.
 
 Necessary libraries to import -
+
 import numpy as np
 
 import pandas as pd
